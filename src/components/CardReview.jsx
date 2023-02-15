@@ -172,7 +172,7 @@ export default function CardReview() {
               <CardText className="text-center">
                 Lorem ipsum dolor, sit amet consectetur adipisicing elit. Libero
                 et minus in vitae ducimus ad porro praesentium nemo officia
-                laborum!
+                laborum.
               </CardText>
               <CardTitle tag="h5" className="text-center">
                 John Doe
