@@ -7,4 +7,5 @@ dan client Reviews Serta alert sticky yang akan mengarah pada google play dan ap
 dan hanya ada ketika dibuka pada tampilan desktop. Dan menggunakan data API yang didapat dari (https://fakestoreapi.com/)
 untuk pemanggilan data product.
 
-untuk link projectnya sebagai berikut (https://project-2-kelas-work.web.app/)
+untuk link projectnya sebagai berikut: (https://project-2-kelas-work.web.app/)
+untuk link githubnya sebagai berikut: (https://github.com/Anwar456/project-2-kelas-work)
